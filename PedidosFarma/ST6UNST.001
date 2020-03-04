@@ -1,0 +1,275 @@
+ %% NO MODIFIQUE NI ELIMINE ESTE ARCHIVO. %% 
+ %% Este archivo contiene información acerca de la instalación de una aplicación. %% 
+ %% Se utilizará para quitar automáticamente de su PC todos los componentes de la aplicación, si elige hacerlo. %% 
+
+
+NOTE: Inicio de la sección bootstrapper
+
+CONFIG: Title: "Sistema Gestion de Farmacia"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "SharedDLLs"
+
+ACTION: SystemFile: "C:\WINDOWS\system32\VB6STKIT.DLL"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\COMCAT.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\OLEPRO32.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\VB6ES.DLL"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\STDOLE2.TLB"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\ASYCFILT.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\oleaut32.dll"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\msvbvm60.dll"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\COMCAT.DLL"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\OLEPRO32.DLL"
+
+ACTION: TLBRegister: "C:\WINDOWS\SYSTEM32\STDOLE2.TLB"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\oleaut32.dll"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM32\msvbvm60.dll"
+
+NOTE: Final de la sección bootstrapper
+
+NOTE: Inicializando el programa principal de instalación 'Setup1.exe'....
+
+ACTION: CreateDir: "C:\Documents and Settings\All Users\Menú Inicio\Programas\Sistema Gestion de Farmacia"
+
+ACTION: SharedFile: "c:\PedidosFarma\FM20.DLL"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "c:\PedidosFarma\Crystl32.OCX"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\MSMSKES.DLL"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\msmask32.ocx"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\TABCTES.DLL"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\tabctl32.ocx"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\MSCMCES.DLL"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\mscomctl.ocx"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "c:\PedidosFarma\CMDLGES.DLL"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "c:\PedidosFarma\comdlg32.ocx"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\MSCH2ES.DLL"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\MSChrt20.ocx"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\MSCC2ES.DLL"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\mscomct2.ocx"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "c:\PedidosFarma\AS-IFce1.ocx"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "c:\PedidosFarma\CmdBtnX5.ocx"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "c:\PedidosFarma\ADODCES.DLL"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\STDFTES.DLL"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\msstdfmt.dll"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "c:\PedidosFarma\MSAdoDc.ocx"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "c:\PedidosFarma\DBLSTES.DLL"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "c:\PedidosFarma\dblist32.ocx"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\DATLSES.DLL"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\msdatlst.ocx"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\DATGDES.DLL"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\msdatgrd.ocx"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\scrrnes.dll"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SystemFile: "C:\WINDOWS\system32\MSVCRT.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\scrrun.dll"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\mscorlib.tlb"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\RDO20ES.DLL"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\RDOCURS.DLL"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\msrdo20.dll"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\msjro.dll"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "c:\PedidosFarma\DBRPRES.DLL"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\system32\MSDbRptr.dll"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "c:\PedidosFarma\craxdrt.dll"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "c:\PedidosFarma\crviewer.dll"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "c:\PedidosFarma\MSBind.dll"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "c:\PedidosFarma\Proyecto1.exe"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: DllSelfRegister: "c:\PedidosFarma\FM20.DLL"
+
+*** ERROR: LoadLibrary() falló al registrar el archivo 'c:\PedidosFarma\Crystl32.OCX'
+*** DURANTE ESTA ACCIÓN: DllSelfRegister: "c:\PedidosFarma\Crystl32.OCX"
+
+*** ERROR: Error al registrar el archivo 'c:\PedidosFarma\Crystl32.OCX'
+*** ERROR: (El usuario respondió con 'Reintentar')
+*** DURANTE ESTA ACCIÓN: DllSelfRegister: "c:\PedidosFarma\Crystl32.OCX"
+
+*** ERROR: LoadLibrary() falló al registrar el archivo 'c:\PedidosFarma\Crystl32.OCX'
+*** DURANTE ESTA ACCIÓN: DllSelfRegister: "c:\PedidosFarma\Crystl32.OCX"
+
+*** ERROR: Error al registrar el archivo 'c:\PedidosFarma\Crystl32.OCX'
+*** ERROR: (El usuario respondió con 'Reintentar')
+*** DURANTE ESTA ACCIÓN: DllSelfRegister: "c:\PedidosFarma\Crystl32.OCX"
+
+*** ERROR: LoadLibrary() falló al registrar el archivo 'c:\PedidosFarma\Crystl32.OCX'
+*** DURANTE ESTA ACCIÓN: DllSelfRegister: "c:\PedidosFarma\Crystl32.OCX"
+
+*** ERROR: Error al registrar el archivo 'c:\PedidosFarma\Crystl32.OCX'
+*** ERROR: (El usuario respondió con 'Reintentar')
+*** DURANTE ESTA ACCIÓN: DllSelfRegister: "c:\PedidosFarma\Crystl32.OCX"
+
+*** ERROR: LoadLibrary() falló al registrar el archivo 'c:\PedidosFarma\Crystl32.OCX'
+*** DURANTE ESTA ACCIÓN: DllSelfRegister: "c:\PedidosFarma\Crystl32.OCX"
+
+*** ERROR: Error al registrar el archivo 'c:\PedidosFarma\Crystl32.OCX'
+*** ERROR: (El usuario respondió con 'Reintentar')
+*** DURANTE ESTA ACCIÓN: DllSelfRegister: "c:\PedidosFarma\Crystl32.OCX"
+
+*** ERROR: LoadLibrary() falló al registrar el archivo 'c:\PedidosFarma\Crystl32.OCX'
+*** DURANTE ESTA ACCIÓN: DllSelfRegister: "c:\PedidosFarma\Crystl32.OCX"
+
+*** ERROR: Error al registrar el archivo 'c:\PedidosFarma\Crystl32.OCX'
+*** ERROR: (El usuario respondió con 'Reintentar')
+*** DURANTE ESTA ACCIÓN: DllSelfRegister: "c:\PedidosFarma\Crystl32.OCX"
+
+*** ERROR: LoadLibrary() falló al registrar el archivo 'c:\PedidosFarma\Crystl32.OCX'
+*** DURANTE ESTA ACCIÓN: DllSelfRegister: "c:\PedidosFarma\Crystl32.OCX"
+
+*** ERROR: Error al registrar el archivo 'c:\PedidosFarma\Crystl32.OCX'
+*** ERROR: (El usuario respondió con 'Reintentar')
+*** DURANTE ESTA ACCIÓN: DllSelfRegister: "c:\PedidosFarma\Crystl32.OCX"
+
+*** ERROR: LoadLibrary() falló al registrar el archivo 'c:\PedidosFarma\Crystl32.OCX'
+*** DURANTE ESTA ACCIÓN: DllSelfRegister: "c:\PedidosFarma\Crystl32.OCX"
+
+*** ERROR: Error al registrar el archivo 'c:\PedidosFarma\Crystl32.OCX'
+*** ERROR: (El usuario respondió con 'Reintentar')
+*** DURANTE ESTA ACCIÓN: DllSelfRegister: "c:\PedidosFarma\Crystl32.OCX"
+
+*** ERROR: LoadLibrary() falló al registrar el archivo 'c:\PedidosFarma\Crystl32.OCX'
+*** DURANTE ESTA ACCIÓN: DllSelfRegister: "c:\PedidosFarma\Crystl32.OCX"
+
+*** ERROR: Error al registrar el archivo 'c:\PedidosFarma\Crystl32.OCX'
+*** ERROR: (El usuario respondió con 'Pasar por alto')
+*** DURANTE ESTA ACCIÓN: DllSelfRegister: "c:\PedidosFarma\Crystl32.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\msmask32.ocx"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\tabctl32.ocx"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\mscomctl.ocx"
+
+ACTION: DllSelfRegister: "c:\PedidosFarma\comdlg32.ocx"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\MSChrt20.ocx"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\mscomct2.ocx"
+
+ACTION: DllSelfRegister: "c:\PedidosFarma\AS-IFce1.ocx"
+
+ACTION: DllSelfRegister: "c:\PedidosFarma\CmdBtnX5.ocx"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\msstdfmt.dll"
+
+ACTION: DllSelfRegister: "c:\PedidosFarma\MSAdoDc.ocx"
+
+ACTION: DllSelfRegister: "c:\PedidosFarma\dblist32.ocx"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\msdatlst.ocx"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\msdatgrd.ocx"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\scrrun.dll"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\msrdo20.dll"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\msjro.dll"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\system32\MSDbRptr.dll"
+
+ACTION: DllSelfRegister: "c:\PedidosFarma\craxdrt.dll"
+
+ACTION: DllSelfRegister: "c:\PedidosFarma\crviewer.dll"
+
+ACTION: DllSelfRegister: "c:\PedidosFarma\MSBind.dll"
+
+ACTION: ShellLink: "Sistema Gestion de Farmacia", "Sistema Gestion de Farmacia"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "App Paths\Proyecto1.exe"
+
+ACTION: RegValue: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Proyecto1.exe", ""
+

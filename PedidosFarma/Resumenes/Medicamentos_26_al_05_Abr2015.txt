@@ -1,0 +1,37 @@
+DROGUERIA SUIZA
+De María de Uña de Carletto e Hijos SH
+San Martín 55 - S. M. de Tucumán
+ 
+Resumen desde: 26/03/2015 hasta: 05/04/2015                  *** MEDICAMENTOS ***
+Cliente  :  961 SERENA - CATAMARCA   Zona:C 
+Nombre   : BUSTOS FLAVIA VALERIA
+Dirección: INT.LASCANO ESQ.F.F.543  Ciudad: CATAMARCA  Provincia: CAT
+PLAZO DE PAGO: 10 días
+ 
+Fecha       Numero Tipo Orden   Total    Exento   Gravado       Iva  IvaNoIns   P.I.Bru 
+========================================================================================
+ 25/03/2015    11652 FA 707     61.39     59.89      0.00      0.00      0.00      1.50
+ 27/03/2015    11887 FA 708     48.85     47.66      0.00      0.00      0.00      1.19
+ 27/03/2015    11948 FA 709    186.11    181.57      0.00      0.00      0.00      4.54
+ 28/03/2015    12036 FA 710     99.36     91.96      4.13      0.87      0.00      2.40
+ 30/03/2015    12247 FA 711     25.58      0.00     20.71      4.35      0.00      0.52
+ 31/03/2015    12276 FA 712    196.35    191.56      0.00      0.00      0.00      4.79
+ 31/03/2015    12330 FA 713     55.35      0.00     44.82      9.41      0.00      1.12
+ 31/03/2015    12390 FA 714    164.33    160.32      0.00      0.00      0.00      4.01
+ 01/04/2015    12431 FA 715    197.52    192.70      0.00      0.00      0.00      4.82
+ 01/04/2015    12473 FA 716     93.77     91.48      0.00      0.00      0.00      2.29
+ 01/04/2015    12478 FA 717     71.09     69.36      0.00      0.00      0.00      1.73
+ 04/04/2015    12565 FA 718     55.35      0.00     44.82      9.41      0.00      1.12
+ 04/04/2015    12572 FA 719     86.84     84.72      0.00      0.00      0.00      2.12
+ 04/04/2015    12577 FA 720     74.19     72.38      0.00      0.00      0.00      1.81
+ 04/04/2015    12578 FA 721    357.93    349.20      0.00      0.00      0.00      8.73
+ 04/04/2015    12645 FA 722    173.68    169.44      0.00      0.00      0.00      4.24
+========================================================================================
+                     TOTAL:  1,947.69  1,762.24    114.48     24.04      0.00     46.93
+ 
+SR CLIENTE: La información detallada anteriormente corresponde a los comprobantes emitidos
+en el período indicado. Para conocer sus saldos pendientes de cancelación y NC disponibles
+debe ingresar a www.dsuiza.com.ar a la opción CUENTA y allí seleccionar "Cta. Cte. Droguería Suiza"
+ 
+ATENCION!!! A partir de la decena cerrada se cuenta el plazo ordinario para calcular
+la fecha de vencimiento de todos los comprobantes incluidos en dicha decena.

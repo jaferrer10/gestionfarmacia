@@ -1,0 +1,5 @@
+Line 153: Class AIFCmp1.asxLineHeaderEx of control asxLineHeaderEx2 was not a loaded control class.
+Line 179: Class AIFCmp1.asxLineHeaderEx of control asxLineHeaderEx1 was not a loaded control class.
+Line 189: Class AIFCmp1.asxPowerButton of control cmdGrabar was not a loaded control class.
+Line 231: Class AIFCmp1.asxPowerButton of control cmdUsar was not a loaded control class.
+Line 257: Class AIFCmp1.asxPowerButton of control cmdSalir was not a loaded control class.

@@ -1,0 +1,192 @@
+ %% NO MODIFIQUE NI ELIMINE ESTE ARCHIVO. %% 
+ %% Este archivo contiene información acerca de la instalación de una aplicación. %% 
+ %% Se utilizará para quitar automáticamente de su PC todos los componentes de la aplicación, si elige hacerlo. %% 
+
+
+NOTE: Inicio de la sección bootstrapper
+
+CONFIG: Title: "Sistema Gestion de Farmacia"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "SharedDLLs"
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\VB6STKIT.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\COMCAT.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\VB6ES.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\STDOLE2.TLB"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\ASYCFILT.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\OLEPRO32.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\OLEAUT32.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\msvbvm60.dll"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\COMCAT.DLL"
+
+ACTION: TLBRegister: "C:\WINDOWS\SYSTEM\STDOLE2.TLB"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\OLEPRO32.DLL"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\OLEAUT32.DLL"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\msvbvm60.dll"
+
+NOTE: Final de la sección bootstrapper
+
+NOTE: Inicializando el programa principal de instalación 'Setup1.exe'....
+
+ACTION: CreateDir: "C:\PedidosFarma"
+
+ACTION: SharedFile: "C:\PedidosFarma\Pedidos.mdb"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\craxddt.dll"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\craxdrt.dll"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\MSMSKES.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\MSMASK32.OCX"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\TABCTES.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\TABCTL32.OCX"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\MSCMCES.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\Mscomctl.ocx"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\CMDLGES.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\Comdlg32.ocx"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\MSCH2ES.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\MSCHRT20.OCX"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\MSCC2ES.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\MSCOMCT2.OCX"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\AS-IFce1.ocx"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\CmdBtnX5.ocx"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\ADODCES.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\STDFTES.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\MSSTDFMT.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\MSADODC.OCX"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\DBLSTES.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\DBLIST32.OCX"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\DATLSES.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\MSDATLST.OCX"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\DATGDES.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\MSDATGRD.OCX"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\scrrnes.dll"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SystemFile: "C:\WINDOWS\SYSTEM\MSVCRT.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\scrrun.dll"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\crviewer.dll"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\WINDOWS\SYSTEM\MSBIND.DLL"
+(El archivo en disco ya estaba actualizado)
+
+ACTION: SharedFile: "C:\PedidosFarma\Proyecto1.exe"
+(No se puede encontrar el archivo o es de una versión antigua; se ha copiado el archivo nuevo)
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\craxddt.dll"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\craxdrt.dll"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\MSMASK32.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\TABCTL32.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\Mscomctl.ocx"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\Comdlg32.ocx"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\MSCHRT20.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\MSCOMCT2.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\AS-IFce1.ocx"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\CmdBtnX5.ocx"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\MSSTDFMT.DLL"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\MSADODC.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\DBLIST32.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\MSDATLST.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\MSDATGRD.OCX"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\scrrun.dll"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\crviewer.dll"
+
+ACTION: DllSelfRegister: "C:\WINDOWS\SYSTEM\MSBIND.DLL"
+
+ACTION: ShellLink: "Sistema Gestion de Farmacia", "Sistema Gestion de Farmacia"
+
+ACTION: RegKey: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion", "App Paths\Proyecto1.exe"
+
+ACTION: RegValue: "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\Proyecto1.exe", ""
+

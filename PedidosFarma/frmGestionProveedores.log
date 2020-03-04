@@ -1,0 +1,11 @@
+Line 17: Class AIFCmp1.asxPowerButton of control cmdSalir was not a loaded control class.
+Line 40: Class AIFCmp1.asxPowerButton of control cmdEliminar was not a loaded control class.
+Line 62: Class AIFCmp1.asxPowerButton of control cmdModificar was not a loaded control class.
+Line 84: Class AIFCmp1.asxPowerButton of control cmdAgregar was not a loaded control class.
+Line 113: Class AIFCmp1.asxPowerButton of control cmdCancelar was not a loaded control class.
+Line 135: Class AIFCmp1.asxPowerButton of control cmdGrabar was not a loaded control class.
+Line 237: Class AIFCmp1.asxLabel of control asxLabel1 was not a loaded control class.
+Line 260: Class AIFCmp1.asxLabel of control asxLabel2 was not a loaded control class.
+Line 283: Class AIFCmp1.asxLabel of control asxLabel3 was not a loaded control class.
+Line 306: Class AIFCmp1.asxLabel of control asxLabel4 was not a loaded control class.
+Line 329: Class AIFCmp1.asxLabel of control asxLabel5 was not a loaded control class.

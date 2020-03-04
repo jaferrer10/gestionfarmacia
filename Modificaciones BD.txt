@@ -1,0 +1,4 @@
+11/12/2013
+
+Se agregó al final de la tabla "Clientes" el campo ObraSocial de tipo Memo.
+

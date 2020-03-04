@@ -1,0 +1,27 @@
+DROGUERIA SUIZA
+MARIA A. DE UÑA DE CARLETTO E HIJOS S.A.
+SAN MARTIN 55 - 4000 - S.M. DE TUCUMAN
+ 
+Resumen desde: 06/10/2016 hasta: 15/10/2016                  *** TRANSFERS ***
+Cliente: 961 SERENA - CATAMARCA    Zona: CAT. C
+Nombre: BUSTOS FLAVIA VALERIA
+Dirección: INT.LASCANO ESQ.F.F.543 | CATAMARCA - CATAMARCA
+Plazo de pago: 10 días
+ 
+ Fecha      Numero         Tipo Orden      Total     Exento    Gravado        Iva   IvaNoIns    P.I.Bru    P.M.Cba 
+===================================================================================================================
+ 05/10/2016 A0013-00080373 FA     448      42,33       0,00      34,27       7,20       0,00       0,86       0,00 
+ 12/10/2016 A0013-00081072 FA     449     296,95     289,71       0,00       0,00       0,00       7,24       0,00 
+ 12/10/2016 A0013-00081108 FA     450     342,47     334,12       0,00       0,00       0,00       8,35       0,00 
+ 12/10/2016 A0013-00081133 FA     451     124,86     121,81       0,00       0,00       0,00       3,05       0,00 
+===================================================================================================================
+                                TOTAL:    806,61     745,64      34,27       7,20       0,00      19,50       0,00
+ 
+ 
+ 
+SR. CLIENTE: La información detallada anteriormente corresponde a los comprobantes emitidos
+en el período indicado. Para conocer sus saldos pendientes de cancelación y NC disponibles
+debe ingresar a www.dsuiza.com.ar a la opción CUENTA y allí seleccionar 'Cta. Cte. Droguería Suiza'
+ 
+¡ATENCION! A partir de la decena cerrada se cuenta el plazo ordinario para calcular
+la fecha de vencimiento de todos los comprobantes incluidos en dicha decena.

@@ -1,0 +1,93 @@
+Línea 25: la clase AIFCmp1.asxPowerButton del control cmdBorrar no era una clase de control cargada.
+Línea 50: la clase MSDataGridLib.DataGrid del control dtgArchivo no era una clase de control cargada.
+Línea 246: la clase AIFCmp1.asxPowerButton del control cmdDevol no era una clase de control cargada.
+Línea 286: la clase AIFCmp1.asxPowerButton del control cmdPrestar no era una clase de control cargada.
+Línea 344: la clase MSComCtl2.DTPicker del control dtpFecha no era una clase de control cargada.
+Línea 356: la clase MSDataListLib.DataCombo del control dtcPrestador no era una clase de control cargada.
+Línea 368: la clase AIFCmp1.asxLineHeaderEx del control asxLineHeaderEx3 no era una clase de control cargada.
+Línea 378: la clase AIFCmp1.asxLineHeaderEx del control asxLineHeaderEx2 no era una clase de control cargada.
+Línea 388: la clase AIFCmp1.asxLineHeaderEx del control asxLineHeaderEx1 no era una clase de control cargada.
+Línea 398: la clase MSDataListLib.DataCombo del control dtcDeudor no era una clase de control cargada.
+Línea 410: la clase AIFCmp1.asxPowerButton del control cmdSalir no era una clase de control cargada.
+Línea 31: el nombre de la propiedad _ExtentX de cmdBorrar no es válido.
+Línea 32: el nombre de la propiedad _ExtentY de cmdBorrar no es válido.
+Línea 34: el nombre de la propiedad Caption de cmdBorrar no es válido.
+Línea 35: el nombre de la propiedad CaptionAlignment de cmdBorrar no es válido.
+Línea 36: el nombre de la propiedad CaptionOffsetX de cmdBorrar no es válido.
+Línea 46: el nombre de la propiedad PictureAlignment de cmdBorrar no es válido.
+Línea 47: el nombre de la propiedad PictureOffsetX de cmdBorrar no es válido.
+Línea 48: el nombre de la propiedad TextColor de cmdBorrar no es válido.
+Línea 25: no se pudo establecer la propiedad Picture de cmdBorrar.
+Línea 56: el nombre de la propiedad _ExtentX de dtgArchivo no es válido.
+Línea 57: el nombre de la propiedad _ExtentY de dtgArchivo no es válido.
+Línea 58: el nombre de la propiedad _Version de dtgArchivo no es válido.
+Línea 59: el nombre de la propiedad AllowUpdate de dtgArchivo no es válido.
+Línea 61: el nombre de la propiedad HeadLines de dtgArchivo no es válido.
+Línea 62: el nombre de la propiedad RowHeight de dtgArchivo no es válido.
+Línea 63: el nombre de la propiedad FormatLocked de dtgArchivo no es válido.
+Línea 72: el nombre de la propiedad HeadFont de dtgArchivo no es válido.
+Línea 82: el nombre de la propiedad ColumnCount de dtgArchivo no es válido.
+Línea 95: el nombre de la propiedad Column00 de dtgArchivo no es válido.
+Línea 108: el nombre de la propiedad Column01 de dtgArchivo no es válido.
+Línea 121: el nombre de la propiedad Column02 de dtgArchivo no es válido.
+Línea 134: el nombre de la propiedad Column03 de dtgArchivo no es válido.
+Línea 147: el nombre de la propiedad Column04 de dtgArchivo no es válido.
+Línea 160: el nombre de la propiedad Column05 de dtgArchivo no es válido.
+Línea 173: el nombre de la propiedad Column06 de dtgArchivo no es válido.
+Línea 186: el nombre de la propiedad Column07 de dtgArchivo no es válido.
+Línea 199: el nombre de la propiedad Column08 de dtgArchivo no es válido.
+Línea 212: el nombre de la propiedad Column09 de dtgArchivo no es válido.
+Línea 213: el nombre de la propiedad SplitCount de dtgArchivo no es válido.
+Línea 244: el nombre de la propiedad Split0 de dtgArchivo no es válido.
+Línea 252: el nombre de la propiedad _ExtentX de cmdDevol no es válido.
+Línea 253: el nombre de la propiedad _ExtentY de cmdDevol no es válido.
+Línea 255: el nombre de la propiedad Caption de cmdDevol no es válido.
+Línea 256: el nombre de la propiedad CaptionAlignment de cmdDevol no es válido.
+Línea 257: el nombre de la propiedad CaptionOffsetX de cmdDevol no es válido.
+Línea 267: el nombre de la propiedad PictureAlignment de cmdDevol no es válido.
+Línea 268: el nombre de la propiedad PictureOffsetX de cmdDevol no es válido.
+Línea 269: el nombre de la propiedad TextColor de cmdDevol no es válido.
+Línea 246: no se pudo establecer la propiedad Picture de cmdDevol.
+Línea 292: el nombre de la propiedad _ExtentX de cmdPrestar no es válido.
+Línea 293: el nombre de la propiedad _ExtentY de cmdPrestar no es válido.
+Línea 295: el nombre de la propiedad PictureDown de cmdPrestar no es válido.
+Línea 296: el nombre de la propiedad Caption de cmdPrestar no es válido.
+Línea 297: el nombre de la propiedad CaptionAlignment de cmdPrestar no es válido.
+Línea 298: el nombre de la propiedad CaptionTextAlignment de cmdPrestar no es válido.
+Línea 308: el nombre de la propiedad PictureAlignment de cmdPrestar no es válido.
+Línea 309: el nombre de la propiedad PictureOffsetX de cmdPrestar no es válido.
+Línea 310: el nombre de la propiedad TextColor de cmdPrestar no es válido.
+Línea 286: no se pudo establecer la propiedad Picture de cmdPrestar.
+Línea 350: el nombre de la propiedad _ExtentX de dtpFecha no es válido.
+Línea 351: el nombre de la propiedad _ExtentY de dtpFecha no es válido.
+Línea 352: el nombre de la propiedad _Version de dtpFecha no es válido.
+Línea 353: el nombre de la propiedad Format de dtpFecha no es válido.
+Línea 354: el nombre de la propiedad CurrentDate de dtpFecha no es válido.
+Línea 362: el nombre de la propiedad _ExtentX de dtcPrestador no es válido.
+Línea 363: el nombre de la propiedad _ExtentY de dtcPrestador no es válido.
+Línea 364: el nombre de la propiedad _Version de dtcPrestador no es válido.
+Línea 365: el nombre de la propiedad Style de dtcPrestador no es válido.
+Línea 366: el nombre de la propiedad Text de dtcPrestador no es válido.
+Línea 374: el nombre de la propiedad _ExtentX de asxLineHeaderEx3 no es válido.
+Línea 375: el nombre de la propiedad _ExtentY de asxLineHeaderEx3 no es válido.
+Línea 376: el nombre de la propiedad Caption de asxLineHeaderEx3 no es válido.
+Línea 384: el nombre de la propiedad _ExtentX de asxLineHeaderEx2 no es válido.
+Línea 385: el nombre de la propiedad _ExtentY de asxLineHeaderEx2 no es válido.
+Línea 386: el nombre de la propiedad Caption de asxLineHeaderEx2 no es válido.
+Línea 394: el nombre de la propiedad _ExtentX de asxLineHeaderEx1 no es válido.
+Línea 395: el nombre de la propiedad _ExtentY de asxLineHeaderEx1 no es válido.
+Línea 396: el nombre de la propiedad Caption de asxLineHeaderEx1 no es válido.
+Línea 404: el nombre de la propiedad _ExtentX de dtcDeudor no es válido.
+Línea 405: el nombre de la propiedad _ExtentY de dtcDeudor no es válido.
+Línea 406: el nombre de la propiedad _Version de dtcDeudor no es válido.
+Línea 407: el nombre de la propiedad Style de dtcDeudor no es válido.
+Línea 408: el nombre de la propiedad Text de dtcDeudor no es válido.
+Línea 411: el nombre de la propiedad Cancel de cmdSalir no es válido.
+Línea 417: el nombre de la propiedad _ExtentX de cmdSalir no es válido.
+Línea 418: el nombre de la propiedad _ExtentY de cmdSalir no es válido.
+Línea 420: el nombre de la propiedad Caption de cmdSalir no es válido.
+Línea 421: el nombre de la propiedad CaptionAlignment de cmdSalir no es válido.
+Línea 422: el nombre de la propiedad CaptionTextAlignment de cmdSalir no es válido.
+Línea 432: el nombre de la propiedad PictureAlignment de cmdSalir no es válido.
+Línea 433: el nombre de la propiedad PictureOffsetX de cmdSalir no es válido.
+Línea 410: no se pudo establecer la propiedad Picture de cmdSalir.

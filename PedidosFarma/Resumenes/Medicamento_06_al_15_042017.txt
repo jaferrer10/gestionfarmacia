@@ -1,0 +1,41 @@
+DROGUERIA SUIZA
+MARIA A. DE UÑA DE CARLETTO E HIJOS S.A.
+SAN MARTIN 55 - 4000 - S.M. DE TUCUMAN
+ 
+Resumen desde: 06/04/2017 hasta: 15/04/2017                  *** MEDICAMENTOS ***
+Cliente: 961 SERENA - CATAMARCA    Zona: CAT. C
+Nombre: BUSTOS FLAVIA
+Dirección: INT.LASCANO ESQ.F.F.543 | CATAMARCA - CATAMARCA
+Plazo de pago: 10 días
+ 
+ Fecha      Numero         Tipo Orden      Total     Exento    Gravado        Iva   IvaNoIns    P.I.Bru    P.M.Cba 
+===================================================================================================================
+ 05/04/2017 A0013-00102452 FA     600     335,29     190,89     113,06      23,74       0,00       7,60       0,00 
+ 05/04/2017 A0013-00102474 FA     601     446,67     361,22      61,88      12,99       0,00      10,58       0,00 
+ 05/04/2017 A0013-00102558 FA     602     527,29     514,43       0,00       0,00       0,00      12,86       0,00 
+ 06/04/2017 A0013-00102570 FA     603      76,40      74,54       0,00       0,00       0,00       1,86       0,00 
+ 06/04/2017 A0013-00102683 FA     604     512,40     150,47     290,02      60,90       0,00      11,01       0,00 
+ 07/04/2017 A0013-00102803 FA     605     564,57     248,04     251,28      52,77       0,00      12,48       0,00 
+ 07/04/2017 A0013-00102810 FA     606     145,82     104,98      30,94       6,50       0,00       3,40       0,00 
+ 08/04/2017 A0013-00102864 FA     607     221,47     216,07       0,00       0,00       0,00       5,40       0,00 
+ 10/04/2017 A0013-00102992 FA     608     729,45     673,11      31,99       6,72       0,00      17,63       0,00 
+ 10/04/2017 A0013-00102996 FA     609      84,87      82,80       0,00       0,00       0,00       2,07       0,00 
+ 10/04/2017 A0013-00103100 FA     610     131,07      59,76      56,53      11,87       0,00       2,91       0,00 
+ 11/04/2017 A0013-00103145 FA     611     196,48       0,00     159,09      33,41       0,00       3,98       0,00 
+ 11/04/2017 A0013-00103231 FA     612     417,63     407,44       0,00       0,00       0,00      10,19       0,00 
+ 11/04/2017 A0013-00103238 FA     613     254,96     248,74       0,00       0,00       0,00       6,22       0,00 
+ 11/04/2017 A0013-00103287 FA     614      61,67       0,00      49,93      10,49       0,00       1,25       0,00 
+ 12/04/2017 A0013-00103316 FA     615      81,61      79,62       0,00       0,00       0,00       1,99       0,00 
+ 13/04/2017 A0013-00103513 FA     616     160,16     149,29       5,78       1,21       0,00       3,88       0,00 
+ 13/04/2017 A0013-00103527 FA     617     353,47     344,85       0,00       0,00       0,00       8,62       0,00 
+===================================================================================================================
+                                TOTAL:  5.301,28   3.906,25   1.050,50     220,60       0,00     123,93       0,00
+ 
+ 
+ 
+SR. CLIENTE: La información detallada anteriormente corresponde a los comprobantes emitidos
+en el período indicado. Para conocer sus saldos pendientes de cancelación y NC disponibles
+debe ingresar a www.dsuiza.com.ar a la opción CUENTA y allí seleccionar 'Cta. Cte. Droguería Suiza'
+ 
+¡ATENCION! A partir de la decena cerrada se cuenta el plazo ordinario para calcular
+la fecha de vencimiento de todos los comprobantes incluidos en dicha decena.
